@@ -1,5 +1,7 @@
 # POA
 
+idea from https://github.com/ljdursi/poapy
+
 ```python
 from poa import Graph, read_file
 
